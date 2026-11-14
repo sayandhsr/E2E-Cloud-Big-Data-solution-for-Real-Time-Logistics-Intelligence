@@ -1,0 +1,35 @@
+# LogiPulse - Python dependencies
+# Python 3.11 or 3.12 recommended. Install: pip install -r requirements.txt
+
+# Core data
+pandas
+numpy
+pyarrow
+python-dotenv
+requests
+faker
+
+# Connect to Docker services
+confluent-kafka
+boto3
+psycopg2-binary
+
+# Machine learning
+scikit-learn
+xgboost
+mlflow
+matplotlib
+ipykernel
+
+# Serving and dashboard
+fastapi
+uvicorn
+streamlit
+pywebview
+
+# Code quality
+pytest
+ruff
+
+# Add later (Step 3, after installing Java 17)
+# pyspark

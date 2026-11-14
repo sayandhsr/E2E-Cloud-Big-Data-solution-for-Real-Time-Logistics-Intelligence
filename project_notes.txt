@@ -1,0 +1,3 @@
+Day 1.
+Initially as the first part I have created a Repo (GitHub) and a local project folder then I have understand the need of the project and created the sub folders and started understanding the project and Data part as this is a TCS Ion Internship project they have given the data's so I have pasted it correctly (local project folder / data folder)
+.creating the project using the IDE VS Code .created a venv for the project using terminal and inside that installed and updated all dependencies and packages which was stored in requirement.txt file inside the project folder   

@@ -1,0 +1,21 @@
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets and local settings
+.env
+
+# Data (never commit data files; keep only the README)
+data/*
+!data/README.md
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+
+# Logs and cloud state
+*.log
+terraform.tfstate*
+.terraform/
